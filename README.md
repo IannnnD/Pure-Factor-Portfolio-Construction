@@ -1,2 +1,2 @@
 # Pure-Factor-Portfolio-Construction
-Research Project for last semester in CAU
+Team Research Project for last semester in CAU (China), so it contains Chinese as labels or explantions in the codes. 
